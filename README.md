@@ -9,3 +9,5 @@ To run:
 1. Run npm install
 2. Run npm start
 3. Add your own API key in the src/App.js file to connect to Clarifai.
+
+Later, I will build out the back-end and connect this to a database.
